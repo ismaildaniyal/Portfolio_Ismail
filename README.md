@@ -25,7 +25,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📧 Contact
 For any inquiries or feedback, please feel free to contact us:
 - **Email**: ismailsarfraz9345@gmail.com
-- **GitHub**: [YourUsername](https://github.com/yourusername)
+- **GitHub**: [ismaildaniyal](https://github.com/yourusername)
 
 ---
 
